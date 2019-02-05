@@ -1,0 +1,31 @@
+
+
+/*****************TAG SELECTORS***************/
+
+
+  body {
+    background-color: #071e3d;
+  }
+
+  hr {
+    border-color: #1f4287;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+  }
+
+h1 {
+  color: #278ea5;
+}
+
+h3 {
+  color: #1f4287;
+}
+
+
+h4 {
+   color: #21e6c1;
+}
+
+/***********CLASS SELECTORS***********/
